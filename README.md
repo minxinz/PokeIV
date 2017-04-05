@@ -1,5 +1,5 @@
 # PokeIV
-Pokemon's individual value reader for Pokemon Go
+Pokemon's individual value reader for Pokémon Go
 
 ![alt text](http://i.imgur.com/8Jukpzc.png "snapshot")
 
@@ -17,8 +17,8 @@ $ pod install
 And you are ready to build.
 
 ## Declaration
-This app does not have any copy rights of Pokemon images.<br>
-All the Pokemon images come from [Pokemon Official website](http://www.pokemon.com/)
+The Pokémon images in this project are intellectual properties of Pokémon Company. Please use them with caution<br>
+All the Pokémon images come from [Pokémon Official website](http://www.pokemon.com/)
 
 ## Disclaimer
-PokeIVs is an unofficial Pokemon Go accessory tool only, it is not authorized or created by the creator of the game.
+PokeIVs is an unofficial Pokémon Go accessory tool, it is not affiliated by the creator of the game.
